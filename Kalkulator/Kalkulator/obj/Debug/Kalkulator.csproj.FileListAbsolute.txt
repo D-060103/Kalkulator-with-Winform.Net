@@ -1,0 +1,11 @@
+E:\KULIAH\SEMESTER 6\PBKK\Tugas\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+E:\KULIAH\SEMESTER 6\PBKK\Tugas\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+E:\KULIAH\SEMESTER 6\PBKK\Tugas\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+E:\KULIAH\SEMESTER 6\PBKK\Tugas\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+E:\KULIAH\SEMESTER 6\PBKK\Tugas\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+E:\KULIAH\SEMESTER 6\PBKK\Tugas\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+E:\KULIAH\SEMESTER 6\PBKK\Tugas\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+E:\KULIAH\SEMESTER 6\PBKK\Tugas\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+E:\KULIAH\SEMESTER 6\PBKK\Tugas\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+E:\KULIAH\SEMESTER 6\PBKK\Tugas\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+E:\KULIAH\SEMESTER 6\PBKK\Tugas\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
